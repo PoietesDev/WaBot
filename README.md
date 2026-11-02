@@ -39,8 +39,10 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
    git clone
    npm install
    npm start
-  <a name="bahasa-indonesia"></a> 
-Bahasa Indonesia
+
+<a name="bahasa-indonesia"></a> 
+## Bahasa Indonesia
+
 Bot WhatsApp cerdas berbasis Node.js yang dirancang untuk mengotomatisasi pencatatan akuntansi keuangan bisnis multi-cabang menggunakan teknologi OCR dan perintah chat interaktif.
 
 📸 Pratinjau Aplikasi / Screenshot
