@@ -9,7 +9,6 @@
 An intelligent Node.js-based WhatsApp bot designed to automate financial bookkeeping for multi-branch businesses using OCR technology and interactive chat commands.
 
 ### 📸 App Preview / Screenshots
-*(Add your screenshots below)*
 <p align="center">
   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/1.jpeg" alt="WhatsApp Bot Preview" width="500">
    <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/2.jpeg" alt="WhatsApp Bot Preview" width="500">
@@ -49,7 +48,12 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
 Bot WhatsApp cerdas berbasis Node.js yang dirancang untuk mengotomatisasi pencatatan akuntansi keuangan bisnis multi-cabang menggunakan teknologi OCR dan perintah chat interaktif.
 
 ## 📸 Pratinjau Aplikasi / Screenshot
-(Tambahkan tangkapan layar aplikasi Anda di bawah ini)
+<p align="center">
+  <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/1.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/2.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/3.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/4.jpeg" alt="WhatsApp Bot Preview" width="500">
+</p>
 
 ## ✨ Fitur Utama
 Pemindaian Nota OCR: Mengekstrak detail transaksi (nama barang, harga, total) secara otomatis dari foto struk/nota yang dikirimkan pengguna.
