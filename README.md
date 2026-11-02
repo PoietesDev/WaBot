@@ -11,7 +11,10 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
 ### 📸 App Preview / Screenshots
 *(Add your screenshots below)*
 <p align="center">
-  <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/1.jpeg" alt="WhatsApp Bot Preview" width="700">
+  <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/1.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/2.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/3.jpeg" alt="WhatsApp Bot Preview" width="500">
+   <img src="https://github.com/PoietesDev/WaBot/blob/main/ss/4.jpeg" alt="WhatsApp Bot Preview" width="500">
 </p>
 
 ### ✨ Core Features
