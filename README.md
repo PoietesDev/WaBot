@@ -11,7 +11,7 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
 ### 📸 App Preview / Screenshots
 *(Add your screenshots below)*
 <p align="center">
-  <img src="path/to/your-screenshot.png" alt="WhatsApp Bot Preview" width="700">
+  <img src="ss/1.png" alt="WhatsApp Bot Preview" width="700">
 </p>
 
 ### ✨ Core Features
