@@ -45,10 +45,10 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
 
 Bot WhatsApp cerdas berbasis Node.js yang dirancang untuk mengotomatisasi pencatatan akuntansi keuangan bisnis multi-cabang menggunakan teknologi OCR dan perintah chat interaktif.
 
-📸 Pratinjau Aplikasi / Screenshot
+## 📸 Pratinjau Aplikasi / Screenshot
 (Tambahkan tangkapan layar aplikasi Anda di bawah ini)
 
-✨ Fitur Utama
+## ✨ Fitur Utama
 Pemindaian Nota OCR: Mengekstrak detail transaksi (nama barang, harga, total) secara otomatis dari foto struk/nota yang dikirimkan pengguna.
 
 Koreksi Interaktif: Memungkinkan pengguna meninjau dan memperbaiki hasil baca OCR langsung via chat WhatsApp sebelum disimpan.
@@ -57,7 +57,7 @@ Integrasi Database: Menyimpan transaksi yang telah diverifikasi secara aman ke d
 
 Laporan Pintar: Menghasilkan ringkasan keuangan instan sesuai permintaan (contoh: mengetik rekap jogja juli untuk menarik laporan bulanan cabang tertentu).
 
-🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 Backend: Node.js, Express.js
 
 Integrasi WhatsApp: Baileys / WhatsApp Web API
@@ -66,7 +66,7 @@ Mesin OCR: OCR.space API / Custom OCR Processor
 
 Database: MySQL / MongoDB
 
-🔄 Alur Kerja Sistem (Workflow)
+## 🔄 Alur Kerja Sistem (Workflow)
 Kirim Nota: Pengguna mengirim foto nota/struk belanja ke bot WhatsApp.
 
 Proses OCR: Bot membaca teks dan data dari gambar tersebut.
@@ -77,7 +77,7 @@ Simpan ke DB: Data yang sudah dikonfirmasi disimpan secara permanen ke database.
 
 Minta Laporan: Pengguna dapat meminta rekap laporan kapan saja menggunakan format teks (contoh: rekap jogja juli).
 
-🚀 Cara Menjalankan Secara Lokal
+## 🚀 Cara Menjalankan Secara Lokal
 Clone repositori ini:
 
 Bash
@@ -98,3 +98,4 @@ Bash
 npm start
 
 <FollowUp>Apakah Anda ingin kita lanjutkan dengan merancang struktur file kode atau skrip untuk bot WhatsApp ini?</FollowUp>
+Jika ada kesulitan bisa hubungi Whatsapp di bio 
