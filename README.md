@@ -40,7 +40,7 @@ An intelligent Node.js-based WhatsApp bot designed to automate financial bookkee
    npm install
    npm start
    
-Bahasa Indonesia
+🇮🇩 Bahasa Indonesia
 Bot WhatsApp cerdas berbasis Node.js yang dirancang untuk mengotomatisasi pencatatan akuntansi keuangan bisnis multi-cabang menggunakan teknologi OCR dan perintah chat interaktif.
 
 📸 Pratinjau Aplikasi / Screenshot
@@ -79,7 +79,7 @@ Minta Laporan: Pengguna dapat meminta rekap laporan kapan saja menggunakan forma
 Clone repositori ini:
 
 Bash
-git clone [https://github.com/PoietesDev/whatsapp-accounting-bot.git](https://github.com/PoietesDev/whatsapp-accounting-bot.git)
+git clone [https://github.com/PoietesDev/whatsapp-accounting-bot.git](https://github.com/PoietesDev/WaBot.git)
 Masuk ke direktori proyek:
 
 Bash
